@@ -3,5 +3,6 @@ Projeto integrador- Rpg Textual.
 
 exemplos diversos desenvolvidos durante as aulas 
 
-  * 'System.out.println()'
+  * 'System.out.println();'
+  * Scanner Scan = new Scanner (System.in);
   * 
