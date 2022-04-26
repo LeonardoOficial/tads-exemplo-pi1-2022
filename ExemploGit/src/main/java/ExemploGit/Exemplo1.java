@@ -16,7 +16,7 @@ public class Exemplo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        int soma = 1+1;
+        int soma = 1+98;
         System.out.println(soma);
     }
     
